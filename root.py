@@ -41,4 +41,4 @@ async def on_ready():
     except Exception as e:
         print("Error:", e)
 
-client.run("MTQ3ODA1NTk5MjQ5ODU4OTc2Nw.G-y8dq.ilOWW5Qm2sMMlJQenN-ZUNTY19IL7kPPrJc8Vc")
+client.run("yourtokenhere")
